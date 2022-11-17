@@ -1,4 +1,4 @@
-# Geodetic-observations-and-seismic-parameter-inversion
+# 2022 Menyuan earthquake
 ## Providing 2022 Menyuan seismic fault models derived from geodetic observations and seismic parameter inversion
 
 > Two earthquakes struck Menyuan, Qinghai province in Northwest China: Mw 5.9 event on 26 January 2016 and Mw 6.7 event on 8 January 2022. The interferometric synthetic radar (InSAR) technique was utilized to retrieve high resolution co-seismic surface displacement maps for both events. 
